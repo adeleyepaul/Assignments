@@ -1,3 +1,3 @@
 # guessing_game
 
-Replit link: https://replit.com/@AdeleyePaul/guessinggame
+Replit link: https://replit.com/@AdeleyePaul/guessinggamegit
